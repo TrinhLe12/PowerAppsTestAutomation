@@ -11,7 +11,7 @@ resources:
       name: TrinhLe12/PowerAppsTestAutomation
       ref: master
       # Name of the GitHub OAuth ADO Service Connection
-      endpoint: <github.com_TrinhLe12>
+      endpoint: <github.com_TrinhLe12_Test1>
 
 parameters:
  - name: image
